@@ -1,0 +1,2 @@
+# Shortest-path-on-a-map
+given a text file in the format "i      (Intersection point name)      (latitude in decimal degrees)  (longitude in decimal degrees) \n" and after the set of "i"s the set of "r    (Name of the edge)   (intersection One)     (intersection two)\n" it prints out the map and the directions if given as command line arguments    java "file.txt" --show --direction (intersection 1) (intersection 2)
